@@ -15,12 +15,17 @@ complex numbers are a data type that is used to represent a number that can be e
 
 | Function | Return |
 | --- | --- |
-| `real()` | Returns the real part of the complex number $*$ |
-| `imag()` | Returns the imaginary part of the complex number $*$ |
-| `abs()` | Returns the absolute value of the complex number |
-| `arg()` | Returns the argument of the complex number |
-| `conj()` | Returns the conjugate of the complex number |
-| `norm()` | Returns the norm of the complex number |
+| `real()` | Returns the real part of the complex number (X) $*$ |
+| `imag()` | Returns the imaginary part of the complex number (Y) $*$ |
+| `abs()` | Returns the absolute value of the complex number (length) |
+| `arg()` | Returns the argument of the complex number (angle) |
+| `conj()` | Returns the conjugate of the complex number (fliping the sign of imaginary part) |
+| `norm()` | Returns the norm of the complex number (squared length) |
+| `polar()` | Returns the polar coordinates of the complex number (length and angle) |
+
+> **Note:** $*$ The real and imaginary parts of a complex number can be accessed using the `real()` and `imag()` methods respectively.
+
+**Example:** [complex.cpp](examples/complex.cpp)
 
 ## Dot Product
 
