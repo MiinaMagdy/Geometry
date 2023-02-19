@@ -141,6 +141,8 @@ complex numbers are a data type that is used to represent a number that can be e
 - [A. Where do I Turn?](https://codeforces.com/contest/227/problem/A) (cross product)
 - [B. Arpa and an exam about geometry](https://codeforces.com/contest/851/problem/B) (cross product)
 - [Closest Distance](https://lightoj.com/problem/closest-distance)
+- [problem](https://www.hackerrank.com/challenges/most-distant/problem)
+- [problem](https://codeforces.com/contest/598/problem/C)
 
 ## Resources
 - [cp-algorithms](https://cp-algorithms.com/geometry/basic-geometry.html)
