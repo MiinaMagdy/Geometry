@@ -79,7 +79,7 @@ These cases depending on cos() domain:
 ![photo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dot_Product.svg/300px-Dot_Product.svg.png)
 
 ## Cross Product (outer product)
-- The cross product of two 2-D vectors is $x_1*y_2 - y_1*x_2$ = $A \times B$ = $|A||B|Sin(θ)$
+- The cross product of two 2-D vectors is $x_1 \times y_2 - y_1 \times x_2$ = $A \times B$ = $|A||B|Sin(θ)$
 - Technically, the cross product is actually a vector
 - Since we’re only working with 2-D geometry for now, we’ll ignore this fact, and use it like a scalar.
 - the absolute value of the cross product is the area of the parallelogram formed by the two vectors. 
