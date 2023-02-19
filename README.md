@@ -11,6 +11,10 @@
   - [Dot Product (inner product)](#dot-product-inner-product)
   - [Cross Product (outer product)](#cross-product-outer-product)
   - [`Complex` Data Type](#complex-data-type)
+  - [Operations](#operations)
+  - [Distance](#distance)
+  - [Intersection](#intersection)
+  - [Problems To Solve](#problems-to-solve)
   - [Resources](#resources)
 
 ## Remarks 
@@ -114,6 +118,29 @@ complex numbers are a data type that is used to represent a number that can be e
 > **Note:** $*$ The real and imaginary parts of a complex number can be accessed using the `real()` and `imag()` methods respectively.
 
 **Example:** [complex.cpp](/examples/complex.cpp)
+
+## Operations
+
+- Rotation
+- Reflection
+
+## Distance
+
+- distance between two points
+  - Euclidean distance
+- distance point c to line segment ab
+  - distance point c to line ab
+  - distance point c to segment ab
+
+## Intersection
+- functions
+- counter-clockwise test
+
+## Problems To Solve
+
+- [A. Where do I Turn?](https://codeforces.com/contest/227/problem/A) (cross product)
+- [B. Arpa and an exam about geometry](https://codeforces.com/contest/851/problem/B) (cross product)
+- [Closest Distance](https://lightoj.com/problem/closest-distance)
 
 ## Resources
 - [cp-algorithms](https://cp-algorithms.com/geometry/basic-geometry.html)
