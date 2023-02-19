@@ -117,7 +117,7 @@ complex numbers are a data type that is used to represent a number that can be e
 
 > **Note:** $*$ The real and imaginary parts of a complex number can be accessed using the `real()` and `imag()` methods respectively.
 
-**Example:** [complex.cpp](/examples/complex.cpp)
+**Example:** [complex.cpp](/examples/template.cpp)
 
 ## Operations
 
