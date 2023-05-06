@@ -1,5 +1,8 @@
 # Geometry
 
+## Session
+[Session Record](https://drive.google.com/file/d/11fAYP96nP76QJdiQTrL_2vaBfrX3skhj/view)
+
 ## Outlines
 - [Geometry](#geometry)
   - [Outlines](#outlines)
